@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding:0;
+}
+body{
+    background-image: url("imagens/Blank-desktop-Apple-Credit-Card-Wallpaper-AR72014-v1.png");
+    background-repeat: repeat-x;
+    padding: 300px;
+    color: #42332D
+
+}
+/*div.imagemHeader{
+    background-color: rgb(1ßßß27,255,212);
+    color: rgb(255, 255, 255);
+    height: 200px;
+    s
+}*/
+#imgHeader{
+    position:absolute;
+    left:50%;
+    top:5%;
+	margin-left:-110px;
+	margin-top:-40px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.navegacaoPagina{
+    position:absolute;
+    top:5%;
+    text-align: center;
+}
+.redes{
+    height: 25px;
+    width: 25px;
+}
+.descricaoMary{
+    text-align: center;
+}
+.minhaFoto{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    
+}
+.habilidadesMary{
+    text-align: center;
+}
+.blogs{
+    text-align: center;
+}
+.redesSociais{
+    text-align: center;
+}
