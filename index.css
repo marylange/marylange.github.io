@@ -16,6 +16,9 @@ body{
     transform: translateX(-50%);
     color: black;
 }
+#foto{
+    border-radius: 100%;
+}
 .minhaFoto{
     position: absolute;
     left: 50%;
